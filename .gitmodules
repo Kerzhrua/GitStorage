@@ -1,0 +1,3 @@
+[submodule "GitStorage-sub"]
+	path = GitStorage-sub
+	url = git@github.com:Kerzhrua/GitStorage-sub.git
